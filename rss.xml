@@ -4,8 +4,15 @@
         <description><![CDATA[Neo]]></description>
         <link>https://thegrid.ai/neo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 19:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 19:04:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/neo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Neo13]]></title>
+            <description><![CDATA[<article><h1>Neo13</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b40a8c677387f7377eaebc31498eca7e79edb16.jpg"></article>]]></description>
+            <link>https://thegrid.ai/neo/neo13/index.html</link>
+            <guid isPermaLink="false">40d8f42e-d16c-4d53-8ff0-79c2f5e4d12c</guid>
+            <pubDate>Thu, 17 Dec 2015 19:02:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Neo9]]></title>
             <description><![CDATA[<article><h1>Neo9</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5977d5b48139200effa16a7a3f19b124b60b517.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Neo16</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6abf9729388f599dc7f6bf497dedfce5927078e7.jpg"></article>]]></description>
             <link>https://www.dropbox.com/s/mw7hfx7ef1e4jdt/co6a0823-2.jpg?dl=0</link>
             <guid isPermaLink="false">3bab8931-2b14-4ba1-ab10-7cc7efc5fa31</guid>
-            <pubDate>Thu, 17 Dec 2015 19:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neo6]]></title>
-            <description><![CDATA[<article><h1>Neo6</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ae2a338f384b5cc491169347ed070b2c29c9c63.jpg"></article>]]></description>
-            <link>https://www.dropbox.com/s/38rar1ivo7rew0s/imgl1382-2.jpg?dl=0</link>
-            <guid isPermaLink="false">9d425c9b-1214-4f2e-b1dc-bac83fa105fb</guid>
             <pubDate>Thu, 17 Dec 2015 19:02:11 GMT</pubDate>
         </item>
     </channel>
