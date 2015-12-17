@@ -1,0 +1,14 @@
+layout_spectrum: 0.2209106
+color:
+  saturation: 0.9796075
+  brandStrength: 0
+  lightness: 0.74827
+  rhythmicContrast: 0.4481038
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0
+name: Neo
