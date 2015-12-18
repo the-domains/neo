@@ -4,12 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0
 color:
   saturation: 0.9796075
@@ -22,5 +22,5 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   lightness: 0.74827
-layout_spectrum: 0.6424958
+layout_spectrum: 1
 name: Neo
