@@ -4,7 +4,7 @@
         <description><![CDATA[Neo]]></description>
         <link>https://thegrid.ai/neo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 20:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 20:57:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/neo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Neo3]]></title>
@@ -32,6 +32,13 @@
             <description><![CDATA[<article><h1>Neo18</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce9554e7e6908612280254a32774cee38b5079d0.jpg"></article>]]></description>
             <link>urn:uuid:a39017aa-c8d5-40bd-ac90-d4cc5e416d17</link>
             <guid isPermaLink="false">77e854a1-0367-4c3b-9e67-e02aebc111ae</guid>
+            <pubDate>Thu, 17 Dec 2015 19:02:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neo4]]></title>
+            <description><![CDATA[<article><h1>Neo4</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d325d8eb24653d25cbada2475c0f4e00378d7795.jpg"></article>]]></description>
+            <link>https://thegrid.ai/neo/neo4/index.html</link>
+            <guid isPermaLink="false">b1f2ad35-e837-4fb2-89d7-651bccc55a79</guid>
             <pubDate>Thu, 17 Dec 2015 19:02:13 GMT</pubDate>
         </item>
     </channel>
